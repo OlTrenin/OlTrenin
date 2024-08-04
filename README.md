@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @OlTrenin
+- 👋 Hi, I’m @OlTrenin, I'm 17 years old
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: @olegeng / VK: https://vk.com/otrenin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 OlTrenin/OlTrenin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
