@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I`m Oleg 👋
+🚀 Working on real projects & growing my skills daily
+📚 Sharing dev tips and career insights on my [blog](https://hackernoon.com/u/oltrenin)
+🤝 Open to work and collaboration. [Contact me](https://t.me/oltrenin)
+☕ Support my journey — [Feedback or donate](https://t.me/oltrenin)
+🔗 Let’s connect on [LinkedIN](https://www.linkedin.com/in/oleg-trenin-a6480629b/)
 
 <!--
 **OlTrenin/OlTrenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
