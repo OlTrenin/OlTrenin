@@ -1,21 +1,9 @@
-## Hi, I`m Oleg 👋
-🚀 Working on real projects & growing my skills daily
-📚 Sharing dev tips and career insights on my [blog](https://hackernoon.com/u/oltrenin)
-🤝 Open to work and collaboration. [Contact me](https://t.me/oltrenin)
-☕ Support my journey — [Feedback or donate](https://t.me/oltrenin)
-🔗 Let’s connect on [LinkedIN](https://www.linkedin.com/in/oleg-trenin-a6480629b/)
+## 👋 Hi, I’m Oleg
 
-<!--
-**OlTrenin/OlTrenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React & TypeScript.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Working on real projects & growing my skills  
+📚 Sharing dev tips on my [blog](https://hackernoon.com/u/oltrenin)  
+🤝 Open to work & collabs — [message me](https://t.me/oltrenin)  
+☕ Support or donate — [Telegram](https://t.me/oltrenin)  
+🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/oleg-trenin-a6480629b/)
