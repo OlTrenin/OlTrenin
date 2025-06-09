@@ -6,4 +6,4 @@ Frontend Developer | React & TypeScript.
 📚 Sharing dev tips on my [blog](https://dev.to/oltrenin)  
 🤝 Open to work & collabs — [message me](https://t.me/oltrenin)  
 ☕ Support or donate — [Telegram](https://t.me/oltrenin)  
-🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/oleg-trenin-a6480629b/)
+
