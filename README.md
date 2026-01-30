@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Software engineer<br><br>🚀 Working on real projects & growing my skills(https://hackernoon.com/u/oltrenin)<br>🤝 Open to work & collabs — message me<br>☕ Support or donate — [Telegram](http://t.me/westnotenough)
+<br>Software engineer<br><br>🤝 Open to work & collabs — message me<br>☕ Support or donate — [Telegram](http://t.me/westnotenough)
 
 
 # 💻 Tech Stack:
